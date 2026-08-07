@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #4338CA;
+  --color-primary-dark: #3730A3;
+  --color-accent: #0D9488;
+  --font-sans: "Inter", sans-serif;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
