@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: 'https://happy-presence-production-0d0b.up.railway.app/api',
   withCredentials: true,
 });
 

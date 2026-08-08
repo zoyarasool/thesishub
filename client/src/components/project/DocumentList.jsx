@@ -3,7 +3,7 @@ import { FileText, Upload, Download, Trash2 } from 'lucide-react'
 import toast from 'react-hot-toast'
 import { getProjectDocuments, uploadDocument, deleteDocument } from '../../services/documentService'
 
-const API_BASE = 'http://localhost:5000'
+const API_BASE = 'https://happy-presence-production-0d0b.up.railway.app/api'
 
 export default function DocumentList({ projectId, canUpload }) {
   const [documents, setDocuments] = useState([])
