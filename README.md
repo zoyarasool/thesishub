@@ -1,5 +1,7 @@
 # ThesisHub
 
+🔗 **Live Demo:** [thesishub-mu.vercel.app](https://thesishub-mu.vercel.app)
+
 A full-stack MERN application that connects students with faculty supervisors for thesis and research collaboration. Built to streamline supervisor discovery, project proposals, milestone tracking, document sharing, and meeting scheduling.
 
 ## Features
