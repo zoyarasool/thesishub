@@ -39,9 +39,9 @@ export default function Landing() {
 
       {/* Hero */}
       <section className="max-w-4xl mx-auto text-center px-6 py-20 md:py-28">
-        <h1 className="text-4xl md:text-5xl font-bold text-slate-800 dark:text-slate-100 leading-tight">
-          Thesis supervision, <span className="text-primary">organized</span>.
-        </h1>
+       <h1 className="text-4xl md:text-5xl font-bold text-slate-800 dark:text-slate-100 leading-tight">
+  Bridging <span className="text-primary">students</span> and <span className="text-primary">supervisors</span>.
+</h1>
         <p className="text-lg text-slate-500 dark:text-slate-400 mt-5 max-w-2xl mx-auto">
           ThesisHub connects students with faculty supervisors and brings proposals, milestones,
           documents, and meetings together in one place.
